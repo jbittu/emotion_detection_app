@@ -1,0 +1,16 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+*.exe
+.DS_Store
+
+# Ignore datasets
+backend/data/
+*.csv
+*.json
+*.xlsx
+*.wav
