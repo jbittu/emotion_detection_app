@@ -10,7 +10,5 @@ __pycache__/
 
 # Ignore datasets
 backend/data/
-*.csv
-*.json
-*.xlsx
+
 *.wav
